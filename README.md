@@ -1,6 +1,6 @@
 # Working with stable_baseline & gym library
 
-in this notebook we're going to work with `stable_baseline` and `gym` library in order to train an agent which can land safly on earth in `Lunar-Lander` environment by using `PPO` algorithm.
+in this notebook, we're going to work with the `stable_baseline` and `gym` libraries to train an agent that can land safely on Earth in the `Lunar-Lander` environment by using the `PPO` algorithm.
 
 - this mini project is for hugging face [deep-RL course](https://huggingface.co/deep-rl-course/unit0/introduction?fw=pt).
 
